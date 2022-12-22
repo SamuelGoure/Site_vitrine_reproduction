@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0; 
+    background-color: hsl(232, 88%, 10%);
+    padding: 100px;  
+}
+.corps{
+   height: 850px;
+   width: 700px;
+   margin-left: 400px;
+  
+}
+.menu{
+    background-color: #033557;
+    padding-right: 15px;
+   
+}
+.menu .logo{
+    padding: 20px;  
+}
+.menu h1 a{
+    color: white;
+    margin-left: 18px;
+    text-decoration: none;
+    
+}
+.menu p{
+    color: gray;
+    font-size: 1.4em;
+    margin-left: 18px;
+    font-weight: bold;
+}
+.line_euth{
+    display: flex;
+    
+}
+.eth a{
+    color: aqua;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-right: 235px;
+    padding-left: -300px; 
+    text-decoration: none;
+      
+}
+.line_euth span{
+    margin-left: 35px;
+}
+.end{
+    display: flex;
+    
+}
+.end img{
+    margin-right: 25px;
+}
+.end em{
+    padding-top: 30px;
+    font-size: 35px;
+    word-spacing: 15px;
+    
+}
+.end #jul a{
+    color: white;
+    text-decoration: none;
+}
