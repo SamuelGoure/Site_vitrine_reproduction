@@ -82,7 +82,7 @@ body{
 
 .end{
     display: flex;
-    border: 2px solid red;
+   
     height: 50px;
     justify-content: center;
     align-items: center;
@@ -94,7 +94,7 @@ body{
         width: 90%;
 }
 .titre{
-    border: 2px solid red;
+   
     width: 205%;
 }
 .titre h6{
